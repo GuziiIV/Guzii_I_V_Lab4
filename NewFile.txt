@@ -3,3 +3,5 @@ Some changes
 Changes with new branch
 
 Fouth Change
+
+Conflict2
