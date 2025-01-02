@@ -4,10 +4,8 @@ Changes with new branch
 
 Fouth Change
 
-<<<<<<< HEAD
 Commit 1
 
 comit2
 
-=======
 Commit 1
