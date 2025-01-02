@@ -11,3 +11,4 @@ comit2
 
 =======
 Commit 1
+>>>>>>> parent of a812287 (Update NewFile.txt)
